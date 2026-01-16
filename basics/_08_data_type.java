@@ -1,6 +1,6 @@
 
     import java.util.*;
-import java.io.*;
+
 
 public class _08_data_type {
 
@@ -39,6 +39,7 @@ public class _08_data_type {
             }
 
         }
+        sc.close();
     }
 }
 
