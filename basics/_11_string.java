@@ -1,5 +1,5 @@
     import java.util.*;
-    import java.security.Permission;*;
+    import java.security.Permission;
 
 public class _11_string {
 
